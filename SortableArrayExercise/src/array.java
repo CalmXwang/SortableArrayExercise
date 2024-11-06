@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class array {
 
     public static void sortIntegers(int[] array) {
-        Arrays.sort(array); 
+        Arrays.sort(array);
         System.out.println("Sorted Integer Array: " + Arrays.toString(array));
     }
 
