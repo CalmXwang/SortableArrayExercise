@@ -1,0 +1,11 @@
+.metadata/
+
+*.log
+*.bak
+*.lock
+*.zip
+*.tmp
+
+.idea/
+out/
+target/
